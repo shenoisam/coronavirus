@@ -1,0 +1,41 @@
+BLASTN 2.10.0+
+
+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb
+Miller (2000), "A greedy algorithm for aligning DNA sequences", J
+Comput Biol 2000; 7(1-2):203-14.
+
+
+
+Database: CoronaViruses
+           56 sequences; 172,347,503 total letters
+
+
+
+Query= NC_009657.1 Scotophilus bat coronavirus 512, complete genome
+
+Length=28203
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+NC_009657.1 Scotophilus bat coronavirus 512, complete genome          52082      0.0  
+NC_003436.1 Porcine epidemic diarrhea virus, complete genome          5291       0.0  
+KX580958.1 Porcine epidemic diarrhea virus strain PC22A-P140.BI, ...  5280       0.0  
+KX580953.1 Porcine epidemic diarrhea virus strain KB2013-4, compl...  5072       0.0  
+NC_022103.1 Bat coronavirus CDPHE15/USA/2006, complete genome         4401       0.0  
+NC_028814.1 BtRf-AlphaCoV/HuB2013, complete genome                    3821       0.0  
+NC_028833.1 BtNv-AlphaCoV/SC2013, complete genome                     3304       0.0  
+NC_009988.1 Bat coronavirus HKU2, complete genome                     3073       0.0  
+NC_028811.1 BtMr-AlphaCoV/SAX2011, complete genome                    2787       0.0  
+NC_032107.1 NL63-related bat coronavirus strain BtKYNL63-9a, comp...  2734       0.0  
+KY073744.1 NL63-related bat coronavirus strain BtKYNL63-9a, compl...  2734       0.0  
+KY073746.1 NL63-related bat coronavirus strain BtKYNL63-15, compl...  2625       0.0  
+KY073745.1 NL63-related bat coronavirus strain BtKYNL63-9b, compl...  2621       0.0  
+KP849472.1 Alphacoronavirus 1 strain 23/03, complete genome           1127       0.0  
+NC_032730.1 Lucheng Rn rat coronavirus isolate Lucheng-19, comple...  1005       0.0  
+NC_039207.1 Betacoronavirus Erinaceus/VMC/DEU/2012 isolate Erinac...  113        3e-22
+NC_001451.1 Avian infectious bronchitis virus, complete genome        60.2       4e-06
+NC_001451.1 Avian infectious bronchitis virus, complete genome        60.2       4e-06
+
+
+
